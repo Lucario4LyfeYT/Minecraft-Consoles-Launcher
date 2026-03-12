@@ -1,4 +1,7 @@
-This launcher just installs the game if you never installed it or updates the game if a newer version is available, it also lets you boot into the game too. This launcher was mainly made just to check for updates and install them before playing as the console edition is being updated almost daily.
+This launcher uses this version of Minecraft Legacy Console Edition: : https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly
+
+This launcher just installs Minecraft Legacy Console Edition if you never installed it or updates the game if a newer version is available, and also lets you boot into it too.
+This launcher was mainly made just to check for updates and install them before playing as Minecraft Legacy Console Edition is being updated almost daily.
 This Launcher backs-up your:
 - Saves
 - Settings
@@ -6,6 +9,3 @@ This Launcher backs-up your:
 - Options
 
 and then restores them when fully updated, so no need to worry about changing them back when you update or moving files around.
-
-
-It downloads this version of Legacy: https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly
