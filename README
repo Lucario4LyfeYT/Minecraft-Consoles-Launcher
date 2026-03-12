@@ -1,7 +1,9 @@
 This launcher uses this version of Minecraft Legacy Console Edition: https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly
 
-This launcher just installs Minecraft Legacy Console Edition if you never installed it or updates the game if a newer version is available, and also lets you boot into it too.
-This launcher was mainly made just to check for updates and install them before playing as Minecraft Legacy Console Edition is being updated almost daily.
+This launcher installs Minecraft Legacy Console Edition if you never installed it, or it updates your current Legacy Console Edition if a newer version is available.
+You can boot into the game once done installing/updating, or at any time you open it as long as it's installed.
+You can choose where you save Legacy Console Edition, and it remembers the location when you load back into it later.
+
 This Launcher makes sure these are unaffected while updating:
 
 - Saves
