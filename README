@@ -26,12 +26,13 @@ Handles installation, updates, and launching for both the game and the dedicated
 - Automatically installs Legacy Console Edition on first launch
 - Checks for updates every time you open the launcher — downloads and installs only if a newer version is available and with user confirmation. 
 - Supports both the **game** and the **dedicated server**
+- Dedicated server does not auto install***
 
 ### Launching
 - Launch the game directly from the launcher once installed
 - The launch button is always visible — active when the game is installed, greyed out when it isn't
 
-### File Safety
+### Files that aren't touched during update process
 During any update, the following files are **never touched**:
 
 **Game**
