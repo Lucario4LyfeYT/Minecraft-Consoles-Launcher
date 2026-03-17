@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=d2NIHyg9rNU
 - Automatically installs Legacy Console Edition on first launch
 - Checks for updates every time you open the launcher - downloads and installs only if a newer version is available and with user confirmation. 
 - Supports both the *game* and the *dedicated server*
-- Dedicated server does not auto install***
+- Dedicated server does not auto install but will auto update if installed***
 
 ### Launching
 - Launch the game directly from the launcher once installed
