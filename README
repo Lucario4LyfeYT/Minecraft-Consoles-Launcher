@@ -1,6 +1,6 @@
-# Minecraft Consoles Launcher
+## Minecraft Consoles Launcher
 
-A launcher for MinecraftConsoles (https://github.com/smartcmd/MinecraftConsoles) — a PC port of **Minecraft Legacy Console Edition**.
+A launcher for MinecraftConsoles (https://github.com/smartcmd/MinecraftConsoles) — a PC port of "Minecraft Legacy Console Edition".
 
 Handles installation, updates, and launching for both the game and the dedicated server, all from one place.
 
@@ -20,45 +20,45 @@ https://www.youtube.com/watch?v=d2NIHyg9rNU
 
 ---
 
-## Features
+## Features:
 
 ### Installation & Updates
 - Automatically installs Legacy Console Edition on first launch
-- Checks for updates every time you open the launcher — downloads and installs only if a newer version is available and with user confirmation. 
-- Supports both the **game** and the **dedicated server**
+- Checks for updates every time you open the launcher - downloads and installs only if a newer version is available and with user confirmation. 
+- Supports both the *game* and the *dedicated server*
 - Dedicated server does not auto install***
 
 ### Launching
 - Launch the game directly from the launcher once installed
 - The launch button is always visible — active when the game is installed, greyed out when it isn't
 
-### Files that aren't touched during update process
-During any update, the following files are **never touched**:
+## Files that aren't touched during updating:
 
-**Game**
+### Game:
 - World saves
 - Settings.dat
 - uid.dat
 - Options.txt
 - username.txt
 
-**Server**
+### Dedicated Server:
 - banned-ips.json
 - banned-players.json
 - server.properties
 - whitelist.json
 - server.db
 
-### Install Location
-- Choose where to install the game and server on first run
-- The launcher remembers your chosen location
+## Custom Install Location:
+- Choose where to install the game on first run
+- Choose where to install the server (if you want to install the server too)
+- The launcher remembers your chosen location(s)
 - Default: `%AppData%\.Minecraft Consoles` / `%AppData%\.Minecraft Consoles Server`
 - Open either folder directly from the launcher with one click
 
 ### Server Properties Editor
-Edit server settings from inside the launcher without touching any config files manually.
+    Edit these server settings from inside the launcher without touching any config files manually:
 
-**Server Setup**
+## Server Setup:
 | Setting | Description |
 |---|---|
 | Whitelist | Restrict who can join |
@@ -68,7 +68,7 @@ Edit server settings from inside the launcher without touching any config files 
 | Spawn Protection | Radius around spawn that non-ops can't break (0–64) |
 | World Size | classic / small / medium / large |
 
-**Gameplay**
+## Gameplay:
 | Setting | Description |
 |---|---|
 | Bonus Chest | Spawn a bonus chest on world creation |
