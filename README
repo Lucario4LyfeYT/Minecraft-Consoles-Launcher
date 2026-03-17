@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=AJRDDGmMQZM
 
 ## Server Setup:
 | Setting | Description |
-|---|---|
+------------------------
 | Whitelist | Restrict who can join |
 | Server IP | IP address to bind to |
 | Server Port | Port the server listens on (default 25565) |
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=AJRDDGmMQZM
 
 ## Gameplay:
 | Setting | Description |
-|---|---|
+------------------------
 | Bonus Chest | Spawn a bonus chest on world creation |
 | Fire Spreads | Whether fire spreads to nearby blocks |
 | Keep Inventory | Keep items on death |
