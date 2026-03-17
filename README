@@ -4,6 +4,8 @@ A launcher for MinecraftConsoles (https://github.com/smartcmd/MinecraftConsoles)
 
 Handles installation, updates, and launching for both the game and the dedicated server, all from one place.
 
+Places a shortcut on the users desktop to the launcher.
+
 ---
 
 ## Download
