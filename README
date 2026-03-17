@@ -63,7 +63,7 @@ https://www.youtube.com/watch?v=AJRDDGmMQZM
 ## Server Setup:
 | Setting | Description |
 ------------------------
-| Whitelist | Restrict who can join |
+| Whitelist | Restrict who can join | (Toggles whitelist on or off doesn't add any username to the list)
 | Server IP | IP address to bind to |
 | Server Port | Port the server listens on (default 25565) |
 | LAN Advertise | Broadcast server on local network |
