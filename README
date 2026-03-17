@@ -1,6 +1,6 @@
 # Minecraft Consoles Launcher
 
-A launcher for [MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) — a PC port of **Minecraft Legacy Console Edition**.
+A launcher for MinecraftConsoles (https://github.com/smartcmd/MinecraftConsoles) — a PC port of **Minecraft Legacy Console Edition**.
 
 Handles installation, updates, and launching for both the game and the dedicated server, all from one place.
 
